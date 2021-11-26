@@ -1,0 +1,21 @@
+Este codigo es una version reducida de la propuesta que se publico en:
+  - C. Segura, S. I. Valdez Peña, S. Botello Rionda, A. Hernández Aguirre, "The Importance of Diversity in the Application of Evolutionary Algorithms to the Sudoku Problem", IEEE Conference on Evolutionary Computation, 2016
+
+La adaptación del código se realizó para presentarla en la Escuela de Cómputo Evolutivo 2016 (ECE16) celebrada en el CIMAT.
+
+Pueden encontrar información adicional sobre el esquema de control de diversidad en:
+	- C. Segura, C. A. Coello Coello, E. Segredo, A. Hernández-Aguirre, "A Novel Diversity-Based Replacement Strategy for Evolutionary Algorithms", IEEE Transactions on Cybernetics, 2016.
+
+Parte de los codigos son un extracto de la herramienta METCO:
+   - C. Leon, G. Miranda Valladares, C. Segura, "METCO: A Parallel Plugin-Based Framework for Multi-objective Optimization", International Journal of Artificial Intelligence Tools 18(4): 569 - 588, 2009.
+
+Se puede compilar con la orden make.
+
+Ejemplo de ejecucion:
+-> Para utilizar MultiDyn
+./solver . ficheroSalida 60 10 999 N = 100 pm = 0.01 pc = 0.8 Optimum = -1 SurvivalSelection = MultiDyn distanceInit = 20 distanceEnd = 0 ! ExtraPenalty = Yes Instance_file = ../instances/SudokuSolutionsCom_Hard2.txt
+
+-> Para utilizar GenerationalElit
+./solver . ficheroSalida 60 10 999 N = 100 pm = 0.01 pc = 0.8 Optimum = -1 SurvivalSelection = GenerationalElit ! ExtraPenalty = Yes Instance_file = ../instances/SudokuSolutionsCom_Hard2.txt
+
+Para cualquier duda contactar a Carlos Segura (carlos.segura@cimat.mx)

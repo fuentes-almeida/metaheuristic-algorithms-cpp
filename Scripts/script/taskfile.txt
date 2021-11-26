@@ -1,0 +1,4 @@
+./EvaluadorFSFAP GSM2-184.ctr 184 39
+./EvaluadorFSFAP GSM2-227.ctr 227 49
+./EvaluadorFSFAP GSM2-272.ctr 272 52
+

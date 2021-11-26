@@ -1,0 +1,11 @@
+./G_Fuentes/ED/bin/ejecutable 200 30 0 0.9 0.59 >G_Fuentes/ED/Sphere30.dat 
+./G_Fuentes/ED/bin/ejecutable 200 30 1 0.9 0.58 >G_Fuentes/ED/Ackley30.dat 
+./G_Fuentes/ED/bin/ejecutable 200 30 2 0.9 0.59 >G_Fuentes/ED/Griewank30.dat 
+./G_Fuentes/ED/bin/ejecutable 200 30 3 0.8 0.2  >G_Fuentes/ED/Rastrigin30.dat 
+./G_Fuentes/ED/bin/ejecutable 200 30 4 0.9 0.59 >G_Fuentes/ED/Rosenbrock30.dat 
+./G_Fuentes/ED/bin/ejecutable 200 50 0 0.8 0.6 >G_Fuentes/ED/Sphere50.dat 
+./G_Fuentes/ED/bin/ejecutable 200 50 1 0.9 0.6 >G_Fuentes/ED/Ackley50.dat 
+./G_Fuentes/ED/bin/ejecutable 200 50 2 0.7 0.6 >G_Fuentes/ED/Griewank50.dat 
+./G_Fuentes/ED/bin/ejecutable 200 50 3 1.0 0.1 >G_Fuentes/ED/Rastrigin50.dat 
+./G_Fuentes/ED/bin/ejecutable 200 50 4 0.8 0.6 >G_Fuentes/ED/Rosenbrock50.dat 
+

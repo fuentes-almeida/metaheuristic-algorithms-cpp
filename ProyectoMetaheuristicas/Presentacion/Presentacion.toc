@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Theory}{4}{0}{2}
+\beamer@sectionintoc {3}{Problem Description}{11}{0}{3}
+\beamer@sectionintoc {4}{Implementation}{17}{0}{4}
+\beamer@sectionintoc {5}{Results}{21}{0}{5}
+\beamer@sectionintoc {6}{Bibliography}{22}{0}{6}

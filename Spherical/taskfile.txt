@@ -1,0 +1,10 @@
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 0 >G_Fuentes/SEA/Sphere30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 1 >G_Fuentes/SEA/Elliptic30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 2 >G_Fuentes/SEA/Schwefel30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 3 >G_Fuentes/SEA/Ackley30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 4 >G_Fuentes/SEA/Rastrigin30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 5 >G_Fuentes/SEA/Griewank30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 6 >G_Fuentes/SEA/Rosenbrock30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 7 >G_Fuentes/SEA/Weierstrass30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 8 >G_Fuentes/SEA/Schaffer30.dat 
+./G_Fuentes/SEA/bin/ejecutable 129 30 9 9 >G_Fuentes/SEA/Salomon30.dat 

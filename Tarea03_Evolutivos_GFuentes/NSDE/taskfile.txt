@@ -1,0 +1,60 @@
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 0 0.8 >G_Fuentes/NSDE/Sphere30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 1 0.9 >G_Fuentes/NSDE/Elliptic30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 2 1.0 >G_Fuentes/NSDE/Schwefel30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 3 0.8 >G_Fuentes/NSDE/Ackley30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 4 0.7 >G_Fuentes/NSDE/Rastrigin30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 5 1.0 >G_Fuentes/NSDE/Griewank30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 6 0.9 >G_Fuentes/NSDE/Rosenbrock30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 7 0.6 >G_Fuentes/NSDE/Weierstrass30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 8 0.6 >G_Fuentes/NSDE/Schaffer30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 30 9 0.9 >G_Fuentes/NSDE/Salomon30.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 0 1.0 >G_Fuentes/NSDE/Sphere50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 1 0.4 >G_Fuentes/NSDE/Elliptic50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 2 0.7 >G_Fuentes/NSDE/Schwefel50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 3 0.8 >G_Fuentes/NSDE/Ackley50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 4 0.7 >G_Fuentes/NSDE/Rastrigin50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 5 0.9 >G_Fuentes/NSDE/Griewank50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 6 1.0 >G_Fuentes/NSDE/Rosenbrock50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 7 0.3 >G_Fuentes/NSDE/Weierstrass50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 8 0.9 >G_Fuentes/NSDE/Schaffer50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 9 0.8 >G_Fuentes/NSDE/Salomon50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 0 >G_Fuentes/SaDE/Sphere30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 1 >G_Fuentes/SaDE/Elliptic30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 2 >G_Fuentes/SaDE/Schwefel30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 3 >G_Fuentes/SaDE/Ackley30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 4 >G_Fuentes/SaDE/Rastrigin30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 5 >G_Fuentes/SaDE/Griewank30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 6 >G_Fuentes/SaDE/Rosenbrock30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 7 >G_Fuentes/SaDE/Weierstrass30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 8 >G_Fuentes/SaDE/Schaffer30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 30 9 >G_Fuentes/SaDE/Salomon30.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 0 >G_Fuentes/SaDE/Sphere50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 1 >G_Fuentes/SaDE/Elliptic50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 2 >G_Fuentes/SaDE/Schwefel50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 3 >G_Fuentes/SaDE/Ackley50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 4 >G_Fuentes/SaDE/Rastrigin50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 5 >G_Fuentes/SaDE/Griewank50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 6 >G_Fuentes/SaDE/Rosenbrock50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 7 >G_Fuentes/SaDE/Weierstrass50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 8 >G_Fuentes/SaDE/Schaffer50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 9 >G_Fuentes/SaDE/Salomon50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 0 >G_Fuentes/SaNSDE/Sphere30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 1 >G_Fuentes/SaNSDE/Elliptic30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 2 >G_Fuentes/SaNSDE/Schwefel30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 3 >G_Fuentes/SaNSDE/Ackley30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 4 >G_Fuentes/SaNSDE/Rastrigin30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 5 >G_Fuentes/SaNSDE/Griewank30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 6 >G_Fuentes/SaNSDE/Rosenbrock30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 7 >G_Fuentes/SaNSDE/Weierstrass30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 8 >G_Fuentes/SaNSDE/Schaffer30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 9 >G_Fuentes/SaNSDE/Salomon30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 0 >G_Fuentes/SaNSDE/Sphere50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 1 >G_Fuentes/SaNSDE/Elliptic50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 2 >G_Fuentes/SaNSDE/Schwefel50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 3 >G_Fuentes/SaNSDE/Ackley50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 4 >G_Fuentes/SaNSDE/Rastrigin50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 5 >G_Fuentes/SaNSDE/Griewank50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 6 >G_Fuentes/SaNSDE/Rosenbrock50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 7 >G_Fuentes/SaNSDE/Weierstrass50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 8 >G_Fuentes/SaNSDE/Schaffer50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 9 >G_Fuentes/SaNSDE/Salomon50.dat 

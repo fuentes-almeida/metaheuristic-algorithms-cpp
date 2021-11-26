@@ -1,0 +1,6 @@
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 5 0.9 >G_Fuentes/NSDE/Griewank50.dat 
+./G_Fuentes/NSDE/bin/ejecutable 1000 50 6 1.0 >G_Fuentes/NSDE/Rosenbrock50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 2 >G_Fuentes/SaDE/Schwefel50.dat 
+./G_Fuentes/SaDE/bin/ejecutable 1000 50 3 >G_Fuentes/SaDE/Ackley50.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 30 9 >G_Fuentes/SaNSDE/Salomon30.dat 
+./G_Fuentes/SaNSDE/bin/ejecutable 1000 50 0 >G_Fuentes/SaNSDE/Sphere50.dat 

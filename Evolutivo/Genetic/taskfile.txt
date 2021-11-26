@@ -1,0 +1,11 @@
+./G_Fuentes/Genetic/bin/ejecutable 50 10 0 -5.12 5.12 >G_Fuentes/Genetic/Results_0_10.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 30 0 -5.12 5.12 >G_Fuentes/Genetic/Results_0_30.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 10 1 -32.768 32.768 >G_Fuentes/Genetic/Results_1_10.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 30 1 -32.768 32.768 >G_Fuentes/Genetic/Results_1_30.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 10 2 -600 600 >G_Fuentes/Genetic/Results_2_10.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 30 2 -600 600 >G_Fuentes/Genetic/Results_2_30.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 10 3 -5.12 5.12 >G_Fuentes/Genetic/Results_3_10.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 30 3 -5.12 5.12 >G_Fuentes/Genetic/Results_3_30.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 10 4 -2.048 2.048 >G_Fuentes/Genetic/Results_4_10.dat 
+./G_Fuentes/Genetic/bin/ejecutable 50 30 4 -2.048 2.048 >G_Fuentes/Genetic/Results_4_30.dat 
+

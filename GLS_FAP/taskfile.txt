@@ -1,0 +1,12 @@
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-184.ctr 184 39 G_Fuentes/GLS-FAP/Results184_39_1.dat 1000000
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-184.ctr 184 39 G_Fuentes/GLS-FAP/Results184_39_2.dat 100000
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-184.ctr 184 39 G_Fuentes/GLS-FAP/Results184_39_3.dat 10000
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-184.ctr 184 39 G_Fuentes/GLS-FAP/Results184_39_4.dat 1000
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-184.ctr 184 39 G_Fuentes/GLS-FAP/Results184_39_5.dat 100
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-184.ctr 184 39 G_Fuentes/GLS-FAP/Results184_39_6.dat 10
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-227.ctr 227 39 G_Fuentes/GLS-FAP/Results227_39_1.dat 1000000
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-227.ctr 227 39 G_Fuentes/GLS-FAP/Results227_39_2.dat 100000
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-227.ctr 227 39 G_Fuentes/GLS-FAP/Results227_39_3.dat 10000
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-227.ctr 227 39 G_Fuentes/GLS-FAP/Results227_39_4.dat 1000
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-227.ctr 227 39 G_Fuentes/GLS-FAP/Results227_39_5.dat 100
+./G_Fuentes/GLS-FAP/bin/ejecutable G_Fuentes/GLS-FAP/GSM2-227.ctr 227 39 G_Fuentes/GLS-FAP/Results227_39_6.dat 10

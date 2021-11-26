@@ -1,0 +1,2 @@
+./G_Fuentes/DE/bin/ejecutable 200 50 5 0.7 0.6 >G_Fuentes/DE/Griewank50.dat 
+./G_Fuentes/DE/bin/ejecutable 200 50 6 0.8 0.6 >G_Fuentes/DE/Rosenbrock50.dat 
