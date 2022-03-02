@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1612236753 source:c:\users\j gerardo fuentes a\repositories\optaframe\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"datetime.h"
+
+1609914484 c:\users\j gerardo fuentes a\repositories\optaframe\memory.h
+
+1612236862 c:\users\j gerardo fuentes a\repositories\optaframe\datetime.h
+	<time.h>
+	<stdbool.h>
+	"utilities.h"
+
+1612224295 c:\users\j gerardo fuentes a\repositories\optaframe\table.h
+	"utilities.h"
+	"datetime.h"
+
+1611893268 c:\users\j gerardo fuentes a\repositories\optaframe\utilities.h
+
+1611892331 source:c:\users\j gerardo fuentes a\repositories\optaframe\memory.c
+	<stdio.h>
+	<stdlib.h>
+	"memory.h"
+
+1611894889 source:c:\users\j gerardo fuentes a\repositories\optaframe\utilities.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utilities.h"
+
+1612236295 source:c:\users\j gerardo fuentes a\repositories\optaframe\datetime.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"datetime.h"
+
+1612234020 source:c:\users\j gerardo fuentes a\repositories\optaframe\table.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"table.h"
+

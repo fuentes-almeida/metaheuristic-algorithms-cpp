@@ -1,0 +1,4 @@
+date,string,string,string,string,datetime,datetime,string,string,string,string,string
+date_of_origin,flight_designator,departure_airport,arrival_airport,service_type,schedule_departure,schedule_arrival,aircraft_type,status_code,aircraft_owner,cockpit_employer,cabin_employer
+29Dec2019,Y4 000742 ,MEX,GDL,J,29Dec2019 22:08,29Dec2019 23:36,32A,S,Y4,Y4,Y4
+29Dec2019,Q6 004083 ,SAL,SJO,J,29Dec2019 15:45,29Dec2019 17:05,32A,C,Q6,Q6,Q6
